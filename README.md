@@ -38,7 +38,7 @@ Go to the end user URL to create multiple test helpdesk tickets
 <img src="https://imgur.com/LFZPsGw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating the tickets --> log into the agent panel --> assign each ticket a priority level, department, & SLA --> communicate with the agent via reply section --> post changes. You should now see the changes you made in the main ticket queue.
+After creating the tickets --> log into the "agent panel" --> assign each ticket a "priority level", "department", & "SLA" --> communicate with the agent via "reply section" --> post changes. You should now see the changes you made in the main ticket queue.
 </p>
 <br />
 
@@ -54,6 +54,6 @@ When working and resolving the issue, update the ticket to communicate any statu
 <img src="https://imgur.com/U8CCHZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After ticket resolution, the ticket will move to the closed folder. That concludes this lab and thank you very much for viewing!
+After ticket resolution, the ticket will automatically move to the "closed folder". That concludes this lab and thank you very much for viewing!
 </p>
 <br />
