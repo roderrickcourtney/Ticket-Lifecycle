@@ -43,9 +43,17 @@ After creating the tickets --> log into the agent panel --> assign each ticket a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/zFd9y8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When working and resolving the issue, update the ticket to communicate any status changes.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/U8CCHZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After ticket resolution, the ticket will move to the closed folder. That concludes this lab and thank you very much for viewing!
 </p>
 <br />
